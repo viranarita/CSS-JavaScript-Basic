@@ -1,0 +1,1 @@
+<script language="javacript" src="lokasi/Cara Penulisan Javascript.js"></script>
